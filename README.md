@@ -78,10 +78,10 @@ Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Latest Blogs : </h3>
+## Latest Blogs :
 <p align="left">
-  <a src="https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5" >JavaScript String Methods
- </a>
+ - [JavaScript String Methods](  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5-about-ssh-%EF%B8%8F-596388d53863)
+
   </p>
 
 
