@@ -79,8 +79,12 @@ Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Latest Blogs :
- - [JavaScript String Methods](  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5)
 
- 
-
-
+ - [Number Systems: An Introduction to Binary, Hexa, and More]([https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/number-systems-an-introduction-to-binary-hexa-and-more-3572587fdfdc))
+ - [An Intro to Git and GitHub]([  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/an-intro-to-git-and-github-ea99add7df6f))
+ - [JavaScript String Methods](https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5)
+ - [HTML For Beginners The Easy Way: Start Learning HTML]([  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/html-for-beginners-the-easy-way-start-learning-html-ec55eee0fdd5))
+ - [8 Ways to Swap Variables in JavaScript]([  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/8-ways-to-swap-variables-in-javascript-b76bd635b514))
+ - [Why does “true” == true show false in JavaScript?
+]([  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/why-does-true-true-show-false-in-javascript-161f06ffebe0))
+ - [Why Linux..?]([  https://medium.com/@thiru21ssc/javascript-string-methods-d39b52919ea5](https://medium.com/@thiru21ssc/why-linux-3b1d476d8cb9))
