@@ -3,7 +3,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <p align="center" padding-left:"20px" >
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
+   <img  &nbsp ;src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
  </p>
  
 ## I'm a B.Sc.(Hons.)Computer Science Student  
