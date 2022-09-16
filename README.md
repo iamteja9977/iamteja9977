@@ -7,7 +7,7 @@
  </p>
  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
   
-## I'm a student of  B.Sc.(Hons.)Computer Science   
+## Student of B.Sc.(Hons.)Computer Science   
 Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
