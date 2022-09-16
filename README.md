@@ -7,7 +7,7 @@
  </p>
   
 ## I'm a student of  B.Sc.(Hons.)Computer Science   
-# Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
+Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
