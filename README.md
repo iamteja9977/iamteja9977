@@ -12,6 +12,7 @@ Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
+<br>
 ## My Skill Set 👩‍💻
 
 <table><tr><td valign="top" width="33%">
@@ -25,7 +26,7 @@ Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
