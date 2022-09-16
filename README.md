@@ -3,11 +3,11 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <p align="center" padding-left:"20px" >
-   <img  &nbsp ;src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
  </p>
  
 ## I'm a B.Sc.(Hons.)Computer Science Student  
-#Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
+# &nbsp Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
