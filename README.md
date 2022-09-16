@@ -1,8 +1,11 @@
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..."/>
 </p>
+<p align="center" >
+   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..."/>
+ </p>
+ 
 ### Hi there 👋
 <!--
 **iamteja9977/iamteja9977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
