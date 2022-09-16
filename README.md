@@ -6,8 +6,18 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
  </p>
  
+ 
+<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
+ 
 ## I'm a B.Sc.(Hons.)Computer Science Student  
-# &nbsp Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
+# Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
