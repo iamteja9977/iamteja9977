@@ -1,11 +1,22 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<p align="center" padding-left:"20px">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=false&lines=hey!+its+Teja" />
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=25&center=false&lines=Data+Specialist+|+Backend+Developer..." />
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&lines=Research+Enthusiast+|+HPC+Aficionado" />
- </p>
+
+<!-- Centered text "hey! its Teja" -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=true&lines=hey!+its+Teja" />
+</p>
+
+<!-- Left aligned text "Data Specialist | Backend Developer..." -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=25&center=false&lines=Data+Specialist+|+Backend+Developer..." />
+</p>
+
+<!-- Right aligned text "Research Enthusiast | HPC Aficionado" -->
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&lines=Research+Enthusiast+|+HPC+Aficionado" />
+</p>
+
  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
 ## Final-year MSc Student at the University of Delhi (DUCS)
