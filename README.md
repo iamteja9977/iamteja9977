@@ -2,22 +2,24 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<!-- Centered text "hey! its Teja" -->
+<!-- Centered animated text for "hey! its Teja" -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=true&lines=hey!+its+Teja" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=true&vCenter=true&width=500&lines=hey!+its+Teja" />
 </p>
 
-<!-- Left aligned text "Data Specialist | Backend Developer..." -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=25&center=false&lines=Data+Specialist+|+Backend+Developer..." />
-</p>
+<!-- Left and right aligned animated texts -->
+<table width="100%" align="center">
+  <tr>
+    <td align="left">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=25&center=false&vCenter=true&width=500&lines=Data+Specialist+|+Backend+Developer..." />
+    </td>
+    <td align="right">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&vCenter=true&width=500&lines=Research+Enthusiast+|+HPC+Aficionado" />
+    </td>
+  </tr>
+</table>
 
-<!-- Right aligned text "Research Enthusiast | HPC Aficionado" -->
-<p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&lines=Research+Enthusiast+|+HPC+Aficionado" />
-</p>
-
- <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
 ## Final-year MSc Student at the University of Delhi (DUCS)
 ## B.Sc. (Hons) Computer Science, Hansraj College, 2022 Graduate
@@ -25,21 +27,26 @@
 - 📚 Experienced in backend development
 - 💪🏼 Strong foundation in mathematics, computer science, and problem-solving
 
+<br/>
+
 ## My Skill Set 👩‍💻
 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
+   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend
+   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -50,6 +57,7 @@
 </td><td valign="top" width="33%">
 
 ### DevOps  
+   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
