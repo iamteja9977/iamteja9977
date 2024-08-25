@@ -25,16 +25,17 @@
 ## B.Sc.(Hons) Computer Science, Hansraj College. 2022 Graduate from University of Delhi.
 - 👨‍💻 Currently working with advanced data analysis technologies and tools.
 - 📚 Experienced in backend development, including technologies such as Node.js, Express.js, and databases like MongoDB.
-- 💪🏼 Possesses a robust foundation in mathematics, computer science, and problem-solving, with hands-on experience in various high-performance computing tasks.
+- 💪🏼 Possesses a robust foundation in mathematics, computer science, and problem-solving, with hands-on experience in various HPC tasks.
 
 <br/>
 
 ## My Skill Set 👩‍💻
 
-<table><tr><td valign="top" width="33%">
+<table><tr>
+<td valign="top" width="25%">
 
 ### Frontend  
-   
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -42,41 +43,47 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />   -->
 </div>
+</td>
 
+<td valign="top" width="25%">
 
-</td><td valign="top" width="33%">
+### Backend  
 
-### Backend
-   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongodb.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
+</td>
 
-</td><td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### DevOps  
-   
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
 </div>
+</td>
+
+<td valign="top" width="25%">
 
 ### Others  
 
 <div align="center">  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neo4j_logo.svg/1200px-Neo4j_logo.svg.png" alt="Neo4j" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MySQL_logo.png/1200px-MySQL_logo.png" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Param_supercomputers.png/1200px-Param_supercomputers.png" alt="Param Utkarsh Supercomputer" height="50" />  
+<img style="margin: 10px" src="https://neo4j.com/wp-content/themes/neo4j/images/neo4j-logo.svg" alt="Neo4j" height="50" />  
+<img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://www.hcltechsw.com/wps/PA_Logo/Param%20Utkarsh%20Supercomputer%20logo.png" alt="Param Utkarsh Supercomputer" height="50" />  
 </div>
+</td>
 
+</tr></table>
 
-</td></tr></table>  
 <br/>  
+
 
 <div align="center">
 <h3>Where to find me</h3>
