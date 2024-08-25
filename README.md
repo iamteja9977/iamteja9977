@@ -3,17 +3,16 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <p align="center" padding-left:"20px" >
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=false&lines=hey!+its+Teja;Full+stack+web+developer...;Tech+Blogger..." />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=false&lines=hey!+its+Teja;Data Specialist
+| Backend Developer...;Research Enthusiast |  HPC Aficionado (High-Performance Computing)" />
  </p>
  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
   
-## Student of B.Sc.(Hons.)Computer Science   
-Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
-
+## Final-year MSc Student at the University of Delhi (DUCS)
+## B.Sc. (Hons) Computer Science, Hansraj College, 2022 Graduate
+- 👨‍💻 Currently working on data analysis technologies
+- 📚 Experienced in backend development
+- 💪🏼 Strong foundation in mathematics, computer science, and problem-solving
 
 
 ## My Skill Set 👩‍💻
@@ -75,9 +74,22 @@ Graduated in june, 2022 from  DELHI UNIVERSITY(DU)
 
 <h3 align="center"> Familiar with programming Languages :</h3>
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+<a href="https://www.C.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+  
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 ## Latest Blogs :
 
