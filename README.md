@@ -4,7 +4,7 @@
 
 <!-- Centered animated text for "hey! its Teja" -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=true&vCenter=true&width=500&lines=hey!+its+Teja" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF0000&size=25&center=true&vCenter=true&width=500&lines=Hey!+its+Tejas2SpaceXperience" />
 </p>
 
 <!-- Left and right aligned animated texts -->
@@ -14,18 +14,18 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0000FF&size=25&center=false&vCenter=true&width=500&lines=Data+Specialist+|+Backend+Developer..." />
     </td>
     <td align="right">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&vCenter=true&width=500&lines=Research+Enthusiast+|+HPC+Aficionado" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=false&vCenter=true&width=500&lines=Research+Enthusiast+|+HPC+Aficionado..." />
     </td>
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
-## Final-year MSc Student at the University of Delhi (DUCS)
-## B.Sc. (Hons) Computer Science, Hansraj College, 2022 Graduate
-- 👨‍💻 Currently working on data analysis technologies
-- 📚 Experienced in backend development
-- 💪🏼 Strong foundation in mathematics, computer science, and problem-solving
+## Final-year MSc Student at the University of Delhi 
+## B.Sc.(Hons) Computer Science, Hansraj College. 2022 Graduate from University of Delhi.
+- 👨‍💻 Currently working with advanced data analysis technologies and tools.
+- 📚 Experienced in backend development, including technologies such as Node.js, Express.js, and databases like MongoDB.
+- 💪🏼 Possesses a robust foundation in mathematics, computer science, and problem-solving, with hands-on experience in various high-performance computing tasks.
 
 <br/>
 
@@ -39,9 +39,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />   -->
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -62,8 +63,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
 </div>
+
+### Others  
+
+<div align="center">  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neo4j_logo.svg/1200px-Neo4j_logo.svg.png" alt="Neo4j" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MySQL_logo.png/1200px-MySQL_logo.png" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Param_supercomputers.png/1200px-Param_supercomputers.png" alt="Param Utkarsh Supercomputer" height="50" />  
+</div>
+
 </td></tr></table>  
 <br/>  
 
